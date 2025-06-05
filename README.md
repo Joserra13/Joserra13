@@ -20,6 +20,9 @@
   <a href="https://github.com/joseRamon13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=professional%20github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Professional Github"  />
   </a>
+  <a href="https://automated-aquarium.vercel.app/">
+    <img src="https://img.shields.io/badge/automated--aquarium--web-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+  </a>
 </div>
 
 ###
